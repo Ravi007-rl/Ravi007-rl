@@ -1,6 +1,6 @@
 # Hi there, I'm Ravi Lalwani! 👋
 
-I'm a **Quality Automation Engineer** with 4.8 years of experience in **web, mobile, and API automation**. I’m passionate about building reliable and scalable test automation frameworks and working with the latest technologies to ensure the best quality code.
+I'm a **Quality Automation Engineer** over 4 years of experience in **web, mobile, and API automation**. I’m passionate about building reliable and scalable test automation frameworks and working with the latest technologies to ensure the best quality code.
 
 ### 🚀 Current Focus
 - 🌱 Currently working with **Playwright** and **TypeScript** while honing my skills in **JavaScript** and **TypeScript** to improve the quality of my code.
